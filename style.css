@@ -1,0 +1,72 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #c3bdd6;
+    text-align: justify;
+    background-image: url(https://i.pinimg.com/564x/7e/8a/3e/7e8a3ee924d8b3c8bc83d926eb032f08.jpg);
+
+}
+
+.texto{
+    font-size: 17px;
+    font-family: 'Abhaya Libre', serif;
+    font-family: 'Caladea', serif;
+    font-family: 'Lugrasimo', cursive;
+    font-family: 'Noto Serif', serif;
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Playfair Display SC', serif;
+    font-family: 'REM', sans-serif;
+    color: rgb(255, 255, 255);
+}
+.busqueda{
+    font-size: 28px;
+    color: #e6e6e6;
+    text-align: center;
+    text-decoration: none;
+    
+  }
+
+
+.img-Astrobiología{
+    float: right;
+    justify-content: center;
+    display: block;
+    margin-top: .4rem;
+    width: 364px;
+}
+
+.Estrellas{
+    float: right;
+    justify-content: center;
+    display: block;
+    margin-top: .4rem;
+    width: 320px;
+}
+
+.Astronauta{
+    margin-top: -16rem;
+    width: 360px;
+    float: right;
+}
+
+.origen-univ{
+    float: left;
+    justify-content: center;
+    display: block;
+    margin-top: .05rem;
+    width: 350px;
+}
+
+
+.main-title{
+    font-size: 60px;
+    font-family: 'Abhaya Libre', serif;
+    font-family: 'Caladea', serif;
+    font-family: 'Lugrasimo', cursive;
+    font-family: 'Noto Serif', serif;
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Playfair Display SC', serif;
+    font-family: 'REM', sans-serif;
+    font-family: 'Satisfy', cursive;
+    text-align: center;
+   
+}
